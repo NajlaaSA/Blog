@@ -41,8 +41,7 @@ Hello World!
 
 ### Blog posts
 
-Add a new Markdown file such as `2017-05-09-my-post.md` and write the content similar to other post examples.
-
+here new text added by me
 ### Pages
 
 The home page is located under `index.md` file. You can change the content or design completely different welcome page for your taste.
