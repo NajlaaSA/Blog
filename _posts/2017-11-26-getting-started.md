@@ -1,7 +1,7 @@
 ---
 layout: post
 title: مدونة نجلاء
-featured-img: sleek
+featured-img: shane-rounce-205187
 ---
 
 ## Najlaa Hindi
