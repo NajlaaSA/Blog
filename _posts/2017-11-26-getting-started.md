@@ -1,7 +1,7 @@
 ---
 layout: post
 title: مدونة نجلاء
-featured-img: Sleek
+featured-img: sleek
 ---
 
 ## Najlaa Hindi
